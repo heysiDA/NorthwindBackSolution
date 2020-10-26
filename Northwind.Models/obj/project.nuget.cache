@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RuPIIDHV4420olT+XjhbVp9/5zUnjhPgVJeFme0C9IVzeCnPjOwBkQVMNNT8ZsqJRds1Uj+JUxuptXPdS5bDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heysi.alcantara.sp\\Documents\\LaptopCOSAS\\Workspace\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heysi.alcantara.sp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

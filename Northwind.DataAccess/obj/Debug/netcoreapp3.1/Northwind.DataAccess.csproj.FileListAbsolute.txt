@@ -1,0 +1,16 @@
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.DataAccess.deps.json
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.DataAccess.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.Repositories.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.DataAccess.pdb
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.Repositories.pdb
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.pdb

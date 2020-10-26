@@ -1,0 +1,9 @@
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp3.1\Northwind.Models.deps.json
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.csprojAssemblyReference.cache
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.csproj.CoreCompileInputs.cache
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.AssemblyInfoInputs.cache
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.AssemblyInfo.cs
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\heysi.alcantara.sp\Documents\Workspace\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp3.1\Northwind.Models.pdb

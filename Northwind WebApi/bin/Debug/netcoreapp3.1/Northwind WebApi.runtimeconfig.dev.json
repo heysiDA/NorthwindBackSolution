@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\heysi.alcantara.sp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\heysi.alcantara.sp\\.nuget\\packages"
+    ]
+  }
+}
